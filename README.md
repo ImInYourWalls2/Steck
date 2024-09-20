@@ -1,2 +1,2 @@
 # Steck
-Steam Deck alternative
+Clock
